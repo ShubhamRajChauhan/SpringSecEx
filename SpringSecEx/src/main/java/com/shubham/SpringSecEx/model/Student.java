@@ -1,6 +1,5 @@
-package com.shubham.SpringSecEx;
+package com.shubham.SpringSecEx.model;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Student {

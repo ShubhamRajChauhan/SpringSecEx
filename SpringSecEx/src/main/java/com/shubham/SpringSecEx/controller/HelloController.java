@@ -1,4 +1,4 @@
-package com.shubham.SpringSecEx;
+package com.shubham.SpringSecEx.controller;
 
 
 import jakarta.servlet.http.HttpServletRequest;
